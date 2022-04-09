@@ -78,3 +78,4 @@ file_name = "2022-04-08-sm.xlsx"
 file_name = xlrd.open_workbook(file_name)
 print_menu(file_name)
 # D:\питон\stolovki/xlrd-1.2.0-py2.py3-none-any.whl
+#наиль не можнет установить xlrd
